@@ -1,0 +1,1 @@
+FROM docker.io/library/node:18.13.0
