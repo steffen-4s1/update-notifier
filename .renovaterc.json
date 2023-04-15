@@ -4,7 +4,6 @@
   "stabilityDays": 0,
   "platformAutomerge": false,
   "ignoreUnstable": false,
-  "versioning": "loose",
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
@@ -12,8 +11,7 @@
     },
     {
       "matchDatasources": ["docker"],
-      "matchPackageNames": ["forgejo/forgejo", "forgejo", "codeberg.org/forgejo"],
-      "groupName": "FORGEJOxxx",
+      "matchPackageNames": ["codeberg.org/forgejo/forgejo"],
       "versioning": "loose"
     }
   ]
