@@ -1,1 +1,1 @@
-FROM docker.io/library/node:18.13.0
+FROM node:18.13.0
