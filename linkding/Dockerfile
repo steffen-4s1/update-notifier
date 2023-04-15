@@ -1,0 +1,1 @@
+FROM sissbruecker/linkding:1.17.2
