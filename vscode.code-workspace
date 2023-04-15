@@ -5,6 +5,7 @@
     }
   ],
   "settings": {
-    "window.title": "Update Notifier"
+    "window.title": "Update Notifier",
+    "cSpell.words": ["automerge"]
   }
 }
