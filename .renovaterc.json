@@ -12,7 +12,8 @@
     {
       "matchDatasources": ["docker"],
       "matchPackageNames": ["forgejo/forgejo", "forgejo", "codeberg.org/forgejo"],
-      "groupName": "FORGEJOxxx"
+      "groupName": "FORGEJOxxx",
+      "versioning": "loose"
     }
   ]
 }
