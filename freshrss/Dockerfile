@@ -1,0 +1,1 @@
+FROM freshrss/freshrss:1.21.0
