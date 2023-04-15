@@ -4,6 +4,7 @@
   "stabilityDays": 0,
   "platformAutomerge": false,
   "ignoreUnstable": false,
+  "versioning": "loose",
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
