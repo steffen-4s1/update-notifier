@@ -10,7 +10,8 @@
       "enabled": false
     },
     {
-      "matchPackageNames": ["forgejo"],
+      "matchDatasources": ["docker"],
+      "matchPackageNames": ["forgejo/forgejo"],
       "groupName": "FORGEJOxxx"
     }
   ]
