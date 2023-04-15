@@ -10,8 +10,8 @@
       "enabled": false
     },
     {
-      "matchPackageNames": ["codeberg.org/forgejo/forgejo"],
-      "groupName": "FORGEJO"
+      "matchPackageNames": ["forgejo"],
+      "groupName": "FORGEJOxxx"
     }
   ]
 }
