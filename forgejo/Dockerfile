@@ -1,1 +1,1 @@
-FROM codeberg.org/forgejo/forgejo:1.19.0-2
+FROM codeberg.org/forgejo/forgejo:1.19.1-0-rootless
