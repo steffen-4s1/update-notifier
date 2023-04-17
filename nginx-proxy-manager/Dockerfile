@@ -1,1 +1,1 @@
-FROM jc21/nginx-proxy-manager:v23.04.1
+FROM jc21/nginx-proxy-manager:2.10.2
