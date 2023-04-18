@@ -2,6 +2,6 @@
   "name": "typescript",
   "version": "1.0.0",
   "devDependencies": {
-    "typescript": "5.0.2"
+    "typescript": "5.0.4"
   }
 }
