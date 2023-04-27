@@ -1,0 +1,7 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "devDependencies": {
+    "angular": "16.0.0-rc.1"
+  }
+}
