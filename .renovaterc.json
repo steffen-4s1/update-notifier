@@ -3,6 +3,7 @@
   "extends": ["local>4s1-org/renovate-config"],
   "stabilityDays": 0,
   "platformAutomerge": false,
+  "automerge": false,
   "ignoreUnstable": false,
   "packageRules": [
     {
