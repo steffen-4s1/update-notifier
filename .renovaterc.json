@@ -1,9 +1,24 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["local>4s1-org/renovate-config"],
-  "stabilityDays": 0,
-  "platformAutomerge": false,
-  "automerge": false,
+  "extends": [
+    "config:base",
+    ":semanticCommits",
+    ":semanticCommitTypeAll(chore)",
+    ":semanticCommitScopeDisabled",
+    ":disableRateLimiting",
+    ":pinDevDependencies",
+    ":pinDevDependencies"
+  ],
+  "onboardingConfig": {
+    "extends": ["config:base"]
+  },
+  "enabledManagers": ["npm", "dockerfile", "gomod"],
+  "platformAutomerge": true,
+  "assignees": ["steffen-4s1"],
+  "labels": ["renovate"],
+  "dependencyDashboardLabels": ["renovate"],
+  "timezone": "Europe/Berlin",
+  "internalChecksFilter": "strict",
   "ignoreUnstable": false,
   "packageRules": [
     {

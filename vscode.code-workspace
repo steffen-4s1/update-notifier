@@ -6,6 +6,6 @@
   ],
   "settings": {
     "window.title": "Update Notifier",
-    "cSpell.words": ["automerge", "datasources", "forgejo"]
+    "cSpell.words": ["automerge", "datasources", "forgejo", "gomod"]
   }
 }
