@@ -1,1 +1,1 @@
-FROM eclipse-mosquitto:2.0.14
+FROM eclipse-mosquitto:2.0.15
