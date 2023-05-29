@@ -1,1 +1,1 @@
-FROM sissbruecker/linkding:1.17.2
+FROM sissbruecker/linkding:1.19.0
