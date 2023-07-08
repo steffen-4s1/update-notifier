@@ -5,6 +5,7 @@
     }
   ],
   "settings": {
+    "cSpell.language": "de-DE,en",
     "window.title": "Update Notifier",
     "cSpell.words": ["automerge", "datasources", "forgejo", "gomod"]
   }
