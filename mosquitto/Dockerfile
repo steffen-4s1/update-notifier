@@ -1,0 +1,1 @@
+FROM mosquitto:2.0.15
