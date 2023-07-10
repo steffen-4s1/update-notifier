@@ -1,1 +1,1 @@
-FROM ckulka/baikal:0.9.3
+FROM ckulka/baikal:0.9.3-nginx
